@@ -1,0 +1,9 @@
+/* App.css */
+body {
+  background-image: url(../src/Image.jpg); /* Replace with the actual path to your image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: Arial, sans-serif; /* Define a font for better readability */
+}
